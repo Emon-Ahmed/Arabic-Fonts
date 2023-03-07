@@ -7,9 +7,11 @@
   src: url("./../fonts/Muhammadi.ttf");
 }
 @font-face {
-  font-family: "Noorehira";
+  font-family: "noorehira";
   src: url("./../fonts/noorehira.ttf");
 }
+
+/* format("truetype") */
 
 .font:indopak {
   font-family: "Al Quran - IndoPak" !important;
@@ -22,7 +24,7 @@
   /* line-height: normal; */
 }
 .font:noorehira {
-  font-family: Noorehira !important;
-  font-size: 1rem;
+  font-family: noorehira !important;
   line-height: normal;
+  font-size: 1rem;
 }
