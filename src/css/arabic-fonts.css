@@ -3,6 +3,7 @@
   src: url("./../fonts/Al-Quran-WBW-IndoPak.ttf");
 }
 
-.font:IndoPak{
+.indo-pak{
   font-family: "Al Quran - IndoPak" !important;
 }
+

@@ -5,11 +5,10 @@ Arabic-Fonts is an npm package that provides a collection of Arabic fonts that c
 
 <!-- The package includes a variety of font styles and weights to choose from, allowing developers to customize the typography of their Arabic content.  -->
 
-### Quick Installation
+## Quick Installation
 
-
-```javascript
-npm install arabic-fonts
+```
+npm install arabic-fonts;
 ```
 
 ## Documentation
