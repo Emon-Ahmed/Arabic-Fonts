@@ -33,9 +33,9 @@ import "arabic-fonts/src/css/arabic-fonts.css";
 const ArabicFont = () => {
   return (
     <div>
-      <p className="font:indopak">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</p>
-      <p className="font:muhammadi">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</p>
-      <p className="font:noorehira">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</p>
+      <p className="font-indopak">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</p>
+      <p className="font-muhammadi">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</p>
+      <p className="font-noorehira">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</p>
     </div>
   );
 };

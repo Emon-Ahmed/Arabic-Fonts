@@ -22,12 +22,12 @@
 
 /* format("truetype") */
 
-.font:indopak {
+.font-indopak {
   font-family: AlQuranIndoPak !important;
 }
-.font:muhammadi {
+.font-muhammadi {
   font-family: Muhammadi !important;
 }
-.font:noorehira {
+.font-noorehira {
   font-family: noorehira;
 }
