@@ -1,18 +1,18 @@
 <h1 align="center">
    <b>
-        <img width="60%" src="./src/logo/Arabic Fonts.png" /><br>
+        <img style="margin-top: 20px; margin-bottom: 20px" width="55%" src="./src/logo/Arabic Fonts.png" /><br>
     </b>
 </h1>
 
-<p align="center"><b>Arabic Fonts</b> is an npm package that provides a collection of Arabic fonts that can be used in web development projects. </p>
+<p align="center"><b>Arabic Fonts</b> is an npm package that provides a collection of Arabic fonts.</p>
 
-<p align="center>
+<div align="center">
 
 [![npm version](https://img.shields.io/npm/v/arabic-fonts.svg)](https://www.npmjs.org/package/arabic-fonts)
 [![install size](https://packagephobia.com/badge?p=arabic-fonts)](https://packagephobia.com/result?p=arabic-fonts)
 [![npm downloads](https://img.shields.io/badge/Download-1K%2FMonth-brightgreen)](https://npm-stat.com/charts.html?package=arabic-fonts)
 
-</p>
+</div
 
 
 <!-- This package can be particularly useful for those working on projects that require Arabic language support, such as websites, applications, or digital content targeting Arabic-speaking audiences. -->
