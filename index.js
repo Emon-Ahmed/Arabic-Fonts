@@ -1,1 +1,1 @@
-console.log('Import Font Family To USE');
+console.log('Import Font Family');
