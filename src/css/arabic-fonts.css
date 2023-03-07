@@ -3,7 +3,28 @@
   src: url("./../fonts/Al-Quran-WBW-IndoPak.ttf");
 }
 
-.indo-pak{
-  font-family: "Al Quran - IndoPak" !important;
+@font-face {
+  font-family: "Muhammadi";
+  src: url("./../fonts/Muhammadi.ttf");
 }
 
+.muhammadi {
+  font-family: Muhammadi !important;
+}
+.font-size {
+  font-size: 72px;
+}
+.indo-pak {
+  font-family: Al Quran - IndoPak !important;
+}
+
+@font-face {
+  font-family: "noorehira";
+  src: url("./../fonts/noorehira.ttf") format("truetype");
+}
+
+.noorehira {
+  font-family: noorehira;
+  font-size: 26px;
+  line-height: 44px;
+}
