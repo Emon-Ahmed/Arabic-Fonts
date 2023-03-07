@@ -23,10 +23,10 @@
 /* format("truetype") */
 
 .font-indopak {
-  font-family: AlQuranIndoPak !important;
+  font-family: AlQuranIndoPak;
 }
 .font-muhammadi {
-  font-family: Muhammadi !important;
+  font-family: Muhammadi;
 }
 .font-noorehira {
   font-family: noorehira;

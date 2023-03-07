@@ -10,7 +10,7 @@
 
 [![npm version](https://img.shields.io/npm/v/arabic-fonts.svg)](https://www.npmjs.org/package/arabic-fonts)
 [![install size](https://packagephobia.com/badge?p=arabic-fonts)](https://packagephobia.com/result?p=arabic-fonts)
-[![npm downloads](https://img.shields.io/badge/Download-1K%2FMonth-brightgreen)](https://npm-stat.com/charts.html?package=arabic-fonts)
+[![npm downloads](https://img.shields.io/badge/Download-1k%2FMonth-brightgreen)](https://npm-stat.com/charts.html?package=arabic-fonts)
 
 </div
 
@@ -54,15 +54,15 @@ import "arabic-fonts/src/css/arabic-fonts.css"; // Import CSS in JSX
 ```
 
 ```jsx
-<span className="font:indopak">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Indo-Pak Font
+<span className="font-indopak">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Indo-Pak Font
 ```
 
 ```jsx
-<span className="font:muhammadi">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Muhammadi Font
+<span className="font-muhammadi">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Muhammadi Font
 ```
 
 ```jsx
-<span className="font:noorehira">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Noorehira Font
+<span className="font-noorehira">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Noorehira Font
 ```
 
 <!-- In addition to the font collection, Arabic-Fonts also offers customizable options for font properties such as size, line height, and letter spacing. The package is optimized for Arabic text, ensuring that the fonts render correctly and are visually pleasing to Arabic-speaking users. -->
