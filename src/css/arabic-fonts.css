@@ -11,20 +11,18 @@
   src: url("./../fonts/noorehira.ttf");
 }
 
-/* format("truetype") */
-
 .font:indopak {
   font-family: "Al Quran - IndoPak" !important;
-  /* font-size: 26px; */
+  font-size: 1rem;
   line-height: normal;
 }
 .font:muhammadi {
   font-family: Muhammadi !important;
-  /* font-size: 26px; */
-  line-height: normal;
+  font-size: 1rem;
+  /* line-height: normal; */
 }
 .font:noorehira {
   font-family: Noorehira !important;
-  /* font-size: 26px;  */
+  font-size: 1rem;
   line-height: normal;
 }
