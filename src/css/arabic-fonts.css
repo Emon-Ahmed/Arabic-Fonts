@@ -16,15 +16,15 @@
 .font:indopak {
   font-family: "Al Quran - IndoPak" !important;
   /* font-size: 26px; */
-  /* line-height: 44px; */
+  line-height: normal;
 }
 .font:muhammadi {
   font-family: Muhammadi !important;
   /* font-size: 26px; */
-  /* line-height: 44px; */
+  line-height: normal;
 }
 .font:noorehira {
   font-family: Noorehira !important;
   /* font-size: 26px;  */
-  /* line-height: 44px; */
+  line-height: normal;
 }

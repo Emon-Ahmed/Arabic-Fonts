@@ -14,7 +14,6 @@
 
 </div
 
-
 <!-- This package can be particularly useful for those working on projects that require Arabic language support, such as websites, applications, or digital content targeting Arabic-speaking audiences. -->
 
 <!-- The package includes a variety of font styles and weights to choose from, allowing developers to customize the typography of their Arabic content.  -->
@@ -24,7 +23,9 @@
 ```
 npm install arabic-fonts;
 ```
+
 ## Usage
+
 ```JSX
 import React from "react";
 import "arabic-fonts/src/css/arabic-fonts.css";
@@ -43,6 +44,7 @@ export default ArabicFont;
 ```
 
 ## Documentation
+
 <!-- Arabic-Fonts is a package that provides a collection of Arabic fonts that can be used in web development projects. The package includes a wide selection of font styles and weights, allowing developers to customize the typography of their Arabic content. -->
 
 To use the package, simply install it via npm and import the desired font(s) into your project. The package is designed to be easy to integrate with popular web development frameworks and libraries, such as React, Angular, and Vue.
@@ -54,9 +56,11 @@ import "arabic-fonts/src/css/arabic-fonts.css"; // Import CSS in JSX
 ```jsx
 <span className="font:indopak">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Indo-Pak Font
 ```
+
 ```jsx
 <span className="font:muhammadi">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Muhammadi Font
 ```
+
 ```jsx
 <span className="font:noorehira">بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ</span> // Noorehira Font
 ```
@@ -68,6 +72,7 @@ import "arabic-fonts/src/css/arabic-fonts.css"; // Import CSS in JSX
 Overall, Arabic-Fonts is a powerful tool for developers working on projects that require Arabic language support. With its wide selection of fonts, customizable options, and regular updates, Arabic-Fonts can help developers create visually stunning and effective Arabic content for their users.
 
 ## Features Of Arabic-Fonts
+
 1. Wide selection of fonts: Arabic-Fonts could offer a wide variety of Arabic fonts to choose from, including different styles, weights, and variations.
 
 <!-- Customizable options: The package could allow developers to customize various font properties, such as font size, line height, and letter spacing, to fit their specific design needs. -->
@@ -87,4 +92,5 @@ Overall, Arabic-Fonts is a powerful tool for developers working on projects that
 5. Documentation and support: Provide tutorials, examples, and support team for Arabic-Fonts to assist developers in using the package quickly and easily.
 
 ## Contact
+
 Created by [@emon-ahmed](https://www.emonahmed.com/) - feel free to contact me!
