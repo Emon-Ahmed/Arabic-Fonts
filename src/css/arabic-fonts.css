@@ -2,33 +2,29 @@
   font-family: "Al Quran - IndoPak";
   src: url("./../fonts/Al-Quran-WBW-IndoPak.ttf");
 }
-
 @font-face {
   font-family: "Muhammadi";
   src: url("./../fonts/Muhammadi.ttf");
 }
-
-.muhammadi {
-  font-family: Muhammadi !important;
-  font-size: 26px;
-  line-height: 44px;
-}
-.font-size {
-  font-size: 72px;
-}
-.indo-pak {
-  font-family: 'Al Quran - IndoPak' !important;
-  font-size: 26px;
-  line-height: 44px;
-}
-
 @font-face {
-  font-family: "noorehira";
-  src: url("./../fonts/noorehira.ttf") format("truetype");
+  font-family: "Noorehira";
+  src: url("./../fonts/noorehira.ttf");
 }
 
-.noorehira {
-  font-family: noorehira;
-  font-size: 26px;
-  line-height: 44px;
+/* format("truetype") */
+
+.font:indopak {
+  font-family: "Al Quran - IndoPak" !important;
+  /* font-size: 26px; */
+  /* line-height: 44px; */
+}
+.font:muhammadi {
+  font-family: Muhammadi !important;
+  /* font-size: 26px; */
+  /* line-height: 44px; */
+}
+.font:noorehira {
+  font-family: Noorehira !important;
+  /* font-size: 26px;  */
+  /* line-height: 44px; */
 }
