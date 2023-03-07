@@ -1,6 +1,6 @@
 {
   "name": "arabic-fonts",
-  "version": "0.1.94",
+  "version": "0.1.95",
   "description": "Arabic Fonts is an npm package that provides a collection of Arabic fonts that can be used in web development projects.",
   "main": "/src/css/arabic-fonts.css",
   "style": "/src/css/arabic-fonts.css",
