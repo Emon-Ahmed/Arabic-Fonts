@@ -1,0 +1,24 @@
+{
+  "name": "arabic-fonts",
+  "version": "0.1.0",
+  "description": "Arabic-Fonts is an npm package that provides a collection of Arabic fonts that can be used in web development projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmonJS/Arabic-Fonts.git"
+  },
+  "keywords": [
+    "Arabic-Fonts",
+    "Fonts",
+    "Quran-Fonts"
+  ],
+  "author": "Emon Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmonJS/Arabic-Fonts/issues"
+  },
+  "homepage": "https://github.com/EmonJS/Arabic-Fonts#readme"
+}
